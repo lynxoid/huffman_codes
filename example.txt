@@ -1,0 +1,5 @@
+AAA	13
+ACG	12
+AGT	9
+TCG	4
+CCG	1
